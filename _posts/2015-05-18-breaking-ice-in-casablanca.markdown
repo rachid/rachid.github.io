@@ -11,6 +11,8 @@ Three weeks ago I decided to visit Casablanca to meet my fellow coders. Besides 
 Despite the fact Casablanca.rb was initiated for the sake of connecting ruby developers. This time I wanted something concrete and also connect with students. So I asked my friend Zakaria Braksa about the possibilities to host an event at the university where he is studying at the time of writing.
 I did want to have a concrete event and something students knew about. So it became a workshop-style meetup which was about "Creating a whatsapp service in one day", yeah we almost did it :)
 
+![Me]({{ site.url }}/images/casa_1.jpeg)
+
 The goal wasn't about finishing the project nor about creating another service. But about bringing students and professionals together in one place. It was about breaking the ice and learning together.
 
 ### The preparation
@@ -18,10 +20,14 @@ As the date move closer, I had to prepare this workshop. To prepare this worksho
 
 While building the app I prepared the written version of the workshop. It is not available, because it wasn't created for this purpose.
 
+![Community]({{ site.url }}/images/casa_2.jpeg)
+
 Also because Ember-CLI was the main stack, I was looking for someone to get us the Ember-CLI 101 book by Adolfo Builes, in the end writer Adolfo Builes, was kind enough to sponsor us the Ember-CLI 101 book which himself. We were limited to an amount of books so I only sent the books to attenders who did promise me two things, they would attend the meeting / and do their best to read the book before the meetup would start. And some of them actually did this which is totally awesome.
 
 ### Around 30 attenders
 It was great to see how the class filling up with fellow coders interested in this workshop. Supinfo Casablanca which made this class-room available really did take care of us and helped in any way possible. As well as the people around me, from the community and people I never even met.
+
+![Attenders]({{ site.url }}/images/casa_3.jpeg)
 
 ### Community
 If you are a Ruby / Rails / Django / Ember.js ... or what whatever fits in this developer. Just make sure if you are in Casablanca to meet the community, attend or propose a meetup. The people are really nice and a hidden beauty the city of Casablanca.
