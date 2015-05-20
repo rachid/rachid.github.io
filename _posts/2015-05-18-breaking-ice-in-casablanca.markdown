@@ -31,7 +31,7 @@ It was great to see how the class filling up with fellow coders interested in th
 ![Attenders]({{ site.url }}/images/casa_3.jpeg)
 
 ### Community
-If you are a Ruby / Rails / Django / Ember.js ... or what whatever fits in this developer. Just make sure if you are in Casablanca to meet the community, attend or propose a meetup. The people are really nice and a hidden beauty the city of Casablanca.
+If you are a Ruby / Rails / Django / Ember.js ... or what whatever fits in this list. Just make sure if you are in Casablanca to meet the community, attend or propose a meetup. The people are really nice and a hidden beauty the city of Casablanca.
 
 Go to the [Meetup page](http://www.meetup.com/Casablanca-rb/events/222233502/)
 
