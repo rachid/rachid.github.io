@@ -23,7 +23,7 @@ While building the app I prepared the written version of the workshop. It is not
 
 ![Community]({{ site.url }}/images/casa_2.jpeg)
 
-Also because Ember-CLI was the main stack, I was looking for someone to get us the Ember-CLI 101 book by Adolfo Builes, in the end writer Adolfo Builes, was kind enough to sponsor us the Ember-CLI 101 book which himself. We were limited to an amount of books so I only sent the books to attenders who did promise me two things, they would attend the meeting / and do their best to read the book before the meetup would start. And some of them actually did this which is totally awesome.
+Also because Ember-CLI was the main stack, I was looking for someone to get us the Ember-CLI 101 book by Adolfo Builes, in the end writer Adolfo Builes, was kind enough to sponsor us the Ember-CLI 101 book which he wrote. We were limited to an amount of books so I only sent the books to attenders who did promise me two things, they would attend the meeting / and do their best to read the book before the meetup would start. And some of them actually did this which is totally awesome.
 
 ### Around 30 attenders
 It was great to see how the class filling up with fellow coders interested in this workshop. Supinfo Casablanca which made this class-room available really did take care of us and helped in any way possible. As well as the people around me, from the community and people I never even met.
