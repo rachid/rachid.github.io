@@ -5,11 +5,12 @@ categories: ember coding web
 ---
 
 ### Just some idea
-Three weeks ago I decided to visit Casablanca to meet my fellow coders. Besides this I also wanted to continue a small tradition I had introduced last year. Casablanca.rb, it is (one) the first meetup organized of its kind. At that time I had announced it long before the actual meetup would have taken place. So in the end the RSVP count dropped down from 30 to 15 attenders. Nevertheless it was a nice experience and I encouraged them to frequently organize a meetup in order the community could grow.
+Three weeks ago I decided to visit Casablanca to meet my fellow coders. Besides this I also wanted to continue a small tradition I had introduced last year. Casablanca.rb, it is (one of) the first meetup organized of its kind. At that time I had announced it long before the actual meetup would have taken place. So in the end the RSVP count dropped down from 30 to 15 attenders. Nevertheless it was a nice experience and I encouraged them to frequently organize a meetup in order the community could grow.
 
 ### Not only about ruby
 Despite the fact Casablanca.rb was initiated for the sake of connecting ruby developers. This time I wanted something concrete and also connect with students. So I asked my friend Zakaria Braksa about the possibilities to host an event at the university where he is studying at the time of writing.
 I did want to have a concrete event and something students knew about. So it became a workshop-style meetup which was about "Creating a whatsapp service in one day", yeah we almost did it :)
+
 
 ![Me]({{ site.url }}/images/casa_1.jpeg)
 
